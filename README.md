@@ -82,22 +82,6 @@ A modern React-based admin dashboard featuring user management, analytics, and a
 
 8. Open [http://localhost:5173](http://localhost:5173) in your browser
 
-## 📁 Project Structure
-
-src/
-├── components/ # Reusable UI components
-│ ├── common/ # Shared components
-│ ├── UserManagement/ # User management components
-│ └── Analytics/ # Analytics components
-├── pages/ # Page components
-├── store/ # Redux store configuration
-│ ├── slices/ # Redux slices
-│ └── store.ts # Store configuration
-├── hooks/ # Custom React hooks
-├── services/ # API services
-├── utils/ # Utility functions
-├── types/ # TypeScript types
-└── constants/ # Application constants
 
 
 
