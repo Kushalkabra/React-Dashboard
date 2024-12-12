@@ -12,7 +12,7 @@ A modern React-based admin dashboard featuring user management, analytics, and a
 
 1. Clone the repository:
 ```bash
-   git clone <repository-url>
+   git clone git@github.com:Kushalkabra/React-Dashboard.git
 ```     
 
 2. Navigate to the project directory:
