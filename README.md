@@ -2,7 +2,6 @@
 
 A modern React-based admin dashboard featuring user management, analytics, and authentication. Built with TypeScript, Redux Toolkit, and Tailwind CSS.
 
-![Dashboard Preview](preview.png)
 
 ## 🚀 Features
 
